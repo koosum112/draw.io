@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T08:18:13.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="YkolK0T_nsDKD48CWW-4" version="14.9.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-08-06T10:55:07.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="BtSBLJuldBLtRn70lNuW" version="14.9.3" type="github" pages="9">
   <diagram id="_vLdIc7lgu0Mb7k9d2Uh" name="ERD">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,20 +135,20 @@
             <mxPoint x="730" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaoysyUgiLwybupiKZ2y-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+        <mxCell id="FaoysyUgiLwybupiKZ2y-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
           <mxGeometry x="827" y="230" width="263" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FaoysyUgiLwybupiKZ2y-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="FaoysyUgiLwybupiKZ2y-1">
+        <mxCell id="FaoysyUgiLwybupiKZ2y-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="FaoysyUgiLwybupiKZ2y-1" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FaoysyUgiLwybupiKZ2y-3" value="MEMO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="FaoysyUgiLwybupiKZ2y-1">
+        <mxCell id="FaoysyUgiLwybupiKZ2y-3" value="MEMO" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="FaoysyUgiLwybupiKZ2y-1" vertex="1">
           <mxGeometry x="30" width="233" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="qU1ywmSTzDmlMt3Pzx4U" name="CRM_CUSTOMER (CRM客戶檔)">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="girV3VIma5u96d9WWsq3-0" />
         <mxCell id="girV3VIma5u96d9WWsq3-1" parent="girV3VIma5u96d9WWsq3-0" />
@@ -167,8 +167,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gZVmr8fspH1Mj6EYx3kp" name="TAGGROUP(標籤設定檔)">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="gZVmr8fspH1Mj6EYx3kp" name="TAG_GROUP(標籤設定檔)">
+    <mxGraphModel dx="998" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TZhOBN9GNlh2ddewoMR8-0" />
         <mxCell id="TZhOBN9GNlh2ddewoMR8-1" parent="TZhOBN9GNlh2ddewoMR8-0" />
@@ -550,7 +550,7 @@
         <mxCell id="EUF8Fy-6U4R8iSE0CFSi-13" value="略" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="EUF8Fy-6U4R8iSE0CFSi-1" vertex="1">
           <mxGeometry x="810" width="310" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="EUF8Fy-6U4R8iSE0CFSi-14" value="CUST-POLKIND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="EUF8Fy-6U4R8iSE0CFSi-1" vertex="1">
+        <mxCell id="EUF8Fy-6U4R8iSE0CFSi-14" value="PROP-POLKIND" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="EUF8Fy-6U4R8iSE0CFSi-1" vertex="1">
           <mxGeometry x="1120" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="EUF8Fy-6U4R8iSE0CFSi-15" value="N" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="EUF8Fy-6U4R8iSE0CFSi-1" vertex="1">
@@ -733,7 +733,7 @@
         <mxCell id="MDwaoNyExqCYBAoau9Gn-13" value="略" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="MDwaoNyExqCYBAoau9Gn-1" vertex="1">
           <mxGeometry x="810" width="310" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MDwaoNyExqCYBAoau9Gn-14" value="VISIT-GOAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="MDwaoNyExqCYBAoau9Gn-1" vertex="1">
+        <mxCell id="MDwaoNyExqCYBAoau9Gn-14" value="VISIT-REASON" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="MDwaoNyExqCYBAoau9Gn-1" vertex="1">
           <mxGeometry x="1120" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="MDwaoNyExqCYBAoau9Gn-15" value="N" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="MDwaoNyExqCYBAoau9Gn-1" vertex="1">
@@ -916,7 +916,7 @@
         <mxCell id="0EAABbQoaYI7wiyZET7H-13" value="略" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="0EAABbQoaYI7wiyZET7H-1" vertex="1">
           <mxGeometry x="810" width="310" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="0EAABbQoaYI7wiyZET7H-14" value="REQUIREMENT -TARGET" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="0EAABbQoaYI7wiyZET7H-1" vertex="1">
+        <mxCell id="0EAABbQoaYI7wiyZET7H-14" value="REQUIRE-TARGET" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="0EAABbQoaYI7wiyZET7H-1" vertex="1">
           <mxGeometry x="1120" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="0EAABbQoaYI7wiyZET7H-15" value="N" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="0EAABbQoaYI7wiyZET7H-1" vertex="1">
@@ -1073,7 +1073,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RQAgpKklSMUwGNhexfYU" name="FUNCTION_FORM (功能表單)">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="F9ew-ArUU2jPGI2MrGe5-0" />
         <mxCell id="F9ew-ArUU2jPGI2MrGe5-1" parent="F9ew-ArUU2jPGI2MrGe5-0" />
@@ -1101,7 +1101,7 @@
         <mxCell id="cW8M304RO_iGI78VHgxw-2" value="APP-CRM-CUST" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="cW8M304RO_iGI78VHgxw-0" vertex="1">
           <mxGeometry x="46" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cW8M304RO_iGI78VHgxw-3" value="PROPERTY _REQUIREMENT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="cW8M304RO_iGI78VHgxw-0" vertex="1">
+        <mxCell id="cW8M304RO_iGI78VHgxw-3" value="PROP_POL _REQUIREMENT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="cW8M304RO_iGI78VHgxw-0" vertex="1">
           <mxGeometry x="156" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cW8M304RO_iGI78VHgxw-4" value="客戶產險需求" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="cW8M304RO_iGI78VHgxw-0" vertex="1">
@@ -1141,7 +1141,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GSmBUetrf716VBotAH7V" name="TAGGROUP_FUNCFORM_SETTING (各功能表單標籤設定)">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tJGwKGDadUjs_1ghgGeq-0" />
         <mxCell id="tJGwKGDadUjs_1ghgGeq-1" parent="tJGwKGDadUjs_1ghgGeq-0" />
@@ -1154,8 +1154,8 @@
         <mxCell id="el0SfliZ1_VFy3NR6DC0-0" value="各功能表單標籤設定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=24;fontStyle=1" parent="tJGwKGDadUjs_1ghgGeq-1" vertex="1">
           <mxGeometry x="40" y="50" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="el0SfliZ1_VFy3NR6DC0-1" value="用途：設定各個功能使用到的標籤設定檔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="tJGwKGDadUjs_1ghgGeq-1" vertex="1">
-          <mxGeometry x="40" y="100" width="270" height="20" as="geometry" />
+        <mxCell id="el0SfliZ1_VFy3NR6DC0-1" value="用途：設定各個功能使用到的標籤" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="tJGwKGDadUjs_1ghgGeq-1" vertex="1">
+          <mxGeometry x="50" y="100" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iPip8Opxp9L-B2qhw6nh-43" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;align=left;" parent="tJGwKGDadUjs_1ghgGeq-1" vertex="1">
           <mxGeometry x="80" y="494" width="650" height="347" as="geometry" />
@@ -1326,7 +1326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BrBgYXKWK1ktvoGCSMOc" name="TAGGROUP_FUNCTIONFORM_RESULT (各功能表單-勾選結果)">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XrbnXt7B0yAy_Rt-ojvx-0" />
         <mxCell id="XrbnXt7B0yAy_Rt-ojvx-1" parent="XrbnXt7B0yAy_Rt-ojvx-0" />
@@ -1463,7 +1463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aLUaJPLsHBFzAFjD19N2" name="CRM_CUST_VISIT (CRM客戶-拜訪紀錄)">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jQiazuoZ4qH0tarRIjNR-0" />
         <mxCell id="jQiazuoZ4qH0tarRIjNR-1" parent="jQiazuoZ4qH0tarRIjNR-0" />
@@ -1473,14 +1473,14 @@
         <mxCell id="Hw8hApPyr6WxoOEDDGVH-0" value="CRM客戶-拜訪紀錄" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=24;fontStyle=1" parent="jQiazuoZ4qH0tarRIjNR-1" vertex="1">
           <mxGeometry x="50" y="50" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yDgjdVo9D28C4YxsNsI5-0" value="用途：紀錄CRM客戶被勾選的標籤" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="jQiazuoZ4qH0tarRIjNR-1" vertex="1">
-          <mxGeometry x="50" y="100" width="230" height="20" as="geometry" />
+        <mxCell id="yDgjdVo9D28C4YxsNsI5-0" value="用途：紀錄CRM客戶的拜訪紀錄" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="jQiazuoZ4qH0tarRIjNR-1" vertex="1">
+          <mxGeometry x="50" y="100" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="O3Hd1thCixy_DHb6FKNh" name="CRM_POLICY_RELATION(客戶關聯保單檔)">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VXviuP8YKNL5QcXzyFOl-0" />
         <mxCell id="VXviuP8YKNL5QcXzyFOl-1" parent="VXviuP8YKNL5QcXzyFOl-0" />
@@ -1531,6 +1531,56 @@
         </mxCell>
         <mxCell id="HhMMj_XwFjQMZW3c1hpD-1" value="用途：CRM客戶的產險需求明細檔" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" parent="VXviuP8YKNL5QcXzyFOl-1" vertex="1">
           <mxGeometry x="50" y="100" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aUSQ8KIjZHv4N6yv1fM0" name="TAGGROUP_PROJECT_SETTING(專案標籤設定檔)">
+    <mxGraphModel dx="1238" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NVtqg3gu_ZjdZgZPJlhH-0" />
+        <mxCell id="NVtqg3gu_ZjdZgZPJlhH-1" parent="NVtqg3gu_ZjdZgZPJlhH-0" />
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-0" value="TAGGROUP_PROJECT_SETTING" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="NVtqg3gu_ZjdZgZPJlhH-1">
+          <mxGeometry x="324" y="110" width="236" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-0">
+          <mxGeometry y="30" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-2" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-3" value="*UUID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-1">
+          <mxGeometry x="30" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-0">
+          <mxGeometry y="60" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-5" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-4">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-6" value="NAME: 專案名稱" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-4">
+          <mxGeometry x="30" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-0">
+          <mxGeometry y="90" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-8" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-7">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-9" value="TAGGROUP_UUIDS: 標籤ＵＵＩＤ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-7">
+          <mxGeometry x="30" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-0">
+          <mxGeometry y="120" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-11" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-10">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mi9QGoG9lArg69d-VTdW-12" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Mi9QGoG9lArg69d-VTdW-10">
+          <mxGeometry x="30" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GutmC6L3aHYcDNqZ2A4r-0" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;專案標籤設定檔&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="NVtqg3gu_ZjdZgZPJlhH-1">
+          <mxGeometry x="130" y="80" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
